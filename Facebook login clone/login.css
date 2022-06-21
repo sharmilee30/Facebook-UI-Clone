@@ -1,0 +1,76 @@
+*{
+    font-family: Helvetica, sans-serif;
+}
+.fac{
+    font-size: 70px;
+    font-weight: bold;
+    color: #2e81f4;
+}
+.mid{
+    margin-left: 60%;
+    margin-top: 10%;
+    box-shadow: 0px 8px 16px 0 rgba(63, 63, 63, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 7px;
+    background-color: white;
+    margin-right: 10%;
+}
+.submit{
+    width: 93% !important;
+    background-color: #2e81f4;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1px !important;
+    
+}
+.cnp{
+    width: 50% !important;
+    background-color: rgb(38, 202, 38);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.top{
+    margin-top: 1.5%;
+    position: absolute;
+    padding-left: 8%;
+}
+.password,
+.email,
+.submit,
+.cnp{
+    padding: 10px;
+    margin: 10px;
+    width: 87.5%;
+    border-radius: 6px;
+    border: 0.5px solid lightgray;
+}
+body{
+    background-color: #f1f2f5;
+}
+.intro{
+    font-size: 30px;
+    width: 70%;
+}
+.cnp-div{
+    display: flex;
+    justify-content: center;
+}
+.for{
+    margin-left: 33%;
+    margin-top: 1%;
+    color: #2e81f4;
+    font-size: 13.5px;
+}
+.bar{
+    color: lightgray;
+    margin-left:5%;
+    font-size: small;
+}
+.lower{
+    margin-left: 64%;
+    margin-top: 22px;
+    font-size: 13.5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
